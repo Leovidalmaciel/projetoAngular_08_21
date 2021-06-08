@@ -1,0 +1,15 @@
+Podemos por aqui ou pelo README la do git, ir comentando algo de mudanca.
+
+O que ja matutei:
+    --> Sempre é dificil sair do zero em algo novo, isso sempre foi fato,
+    talvez tendo um esqueleto do que o sistema é capaz de fazer, mesmo
+    que nao se saiba qual o intuito final, pode ser que a partir dai vá
+    encaixando aos poucos em algum tema dentro do mercado. Em resumo,
+    possuir uma base e ir criando os galhos para ver se sera uma arvore
+    de frutos ou nao.
+    --> Por outro lado, ja vi que projetos mobile, play store ta em torno
+    de 100,00 para publicar um app, e apple pior ainda beirando 400,00 ja
+    convertidos em reais ambos os dois. Mesmo que tenha este custo inicial,
+    acredito que para viralizar um app seja bem mais rapido que uma sistema
+    web. Em resumo, gera um empasse inicial quanto a decisao de optar por
+    algo web ou mobile. isdfbsidbfasdbf
